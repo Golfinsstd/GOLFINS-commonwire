@@ -1,8 +1,8 @@
 -
-GSTD commonwire Official REPO
+GOLFINS commonwire Official REPO
 -
 
-Primeira biblioteca de c/c++ da GSTD!
+Primeira biblioteca de c/c++ da GOLFINS!
 
 -
 Como instalar na Arduino IDE:
